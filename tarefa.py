@@ -27,3 +27,13 @@
 #     print("Login realizado com sucesso")
 # else :
 #     print("Senha deve ser diferente do nome de usuário")
+
+#4
+
+# def soma(a,b) :
+#     a=float(input("Digite um número: "))
+#     b=float(input("Digite um número: "))
+#     soma=(a+b)
+#     print(f"A soma é: {soma}")
+
+# print(soma(a=0,b=0))
