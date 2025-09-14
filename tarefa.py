@@ -37,3 +37,25 @@
 #     print(f"A soma é: {soma}")
 
 # print(soma(a=0,b=0))
+
+#5
+
+# def tabuada(n):
+#     n=int(input("Digite um número para ver a tabuada dele: "))
+#     for i in range(1,11):
+#         resultado= (n * i)
+#         print(f"{n} x {i} = {resultado}")
+
+# tabuada(n=1)
+
+#6
+
+# def maior(a,b):
+#     a=int(input("Digite um número: "))
+#     b=int(input("Digite um número: "))
+#     if a > b :
+#         print(f"O maior é {a}")
+#     else:
+#         print(f"O maior é {b}")
+
+# maior(a=0,b=0)
